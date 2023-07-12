@@ -29,3 +29,52 @@ div {
     position: relative;
     top: 30px;
 }
+
+/* Table Styling */
+tr, th, table {
+    padding: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+#morningclass {
+    text-align: center;
+    background-color:#ffb3b3;
+}
+
+th {
+    background-color: #cccccc;
+    font-weight: bold;
+}
+
+#noclass {
+    background-color: #f2f2f2;
+}
+
+#awrestle {
+    background-color: #b3e0ff;
+}
+
+#kbjj {
+    background-color: #ffcce6;
+}
+
+#amma {
+    background-color: #ccffcc;
+}
+
+#kwrestle {
+    background-color: #e6ccff;
+}
+
+#aboxing {
+    background-color: #ffebcc;
+}
+
+#kboxing {
+    background-color: #ffffcc;
+}
+
+tr, th, td {
+    border:1px solid;;
+}
